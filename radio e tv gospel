@@ -1,0 +1,105 @@
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Adinet Gospel TV 
+rtsp://painel.tvdigitalhd.org:1935/adinet/adinet
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Adinet Gospel TV 
+http://painel.tvdigitalhd.org:1935/adinet/adinet/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Cancao Nova Canal 51 UHF
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Igreja Online TV
+rtsp://195.22.19.179:1935/igronl/igronline2
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", IURD TV
+rtmp://cp116309.live.edgefcs.net/live/RodrigoLive@46406
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", IMPD TV
+http://impd.crossdigital.com.br:1935/impd/impd/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Kurios Manasat
+rtmp://195.22.19.183/kurios/kurios2 
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", ManaSat Brasil HD
+rtmp://195.22.19.189/tvbr/tvbrasil2 
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", RBC TV (AD Pernambuco)
+rtmp://rtmp.cdn.upx.net.br:80/573e_2/myStream.sdp 
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede Evangelizar
+rtmp://streaming02.sulaovivo.com.br:1935/redeevangelizar/ playpath=redeevangelizar  swfUrl=http://streaming01.sulaovivo.com.br/system/misc/jwplayer6/jwplayer.flash.swf  pageUrl=http://www.padrereginaldomanzotti.org.br/tv_evangelizar/player?
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede Familia
+mms://srv3.ntelecom.com.br/redefamilia?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede Familia
+rtsp://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede GOSPEL
+rtmp://media1.igospel.org.br:1935/live playpath=redegospel swfUrl=http://www.igospel.org.br/br/js/player.swf?Grupo_UP_e_DOWN pageUrl=http://www.igospel.org.br/br/playertv.php
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede GOSPEL
+http://flash1.crossdigital.com.br/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede MUNDIAL TV
+rtmp://impd.crossdigital.com.br:1935/impd playpath=impd swfUrl=http://www.impd.tv/StrobeMediaPlayback.swf?Grupo_UP_e_DOWN pageUrl=http://www.impd.tv/
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede Novo tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", REDE SECULO 21
+http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Rede Super
+http://tv.zasmediastreaming.com.br:1935/tvitajai/mca.sdp/live.m3u8
+
+EXTINF:-1 tvg-logo="https://goo.gl/gf5ljL" tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", RIT TV
+rtmp://flash1.crossdigital.com.br/ponto79/ playpath=ongrace swfUrl=http://www.amigodecristo.com/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.amigodecristo.com/2012/06/rit-ao-vivo-a-tv-da-igreja-internacional-da-graca-de-deus.html
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV ADbelem
+rtmp://streaming50.sitehosting.com.br:1935/tvadbras/_definst_/tvadbras
+
+#EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-4iuzOdF-3Cg/VmmjSJMZ0mI/AAAAAAAAAOQ/UweuIGEQz7k/s1600/aparecida.png" group-title="Canais Religiosos", TV Aparecida
+rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV ADNP
+http://srv6.zoeweb.tv:1935/z330-live/stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Cristo Vive
+rtmp://75.126.54.163:1935/live_apostolo_476 playpath=tvcristovive3 swfUrl=http://webcast.overseebrasil.com.br/player_swf/flowplayer.commercial-3.2.16.swf?Grupo_UP_e_DOWN pageUrl=http://webcast.overseebrasil.com.br/player.php?p=tvcristovive3&l=430&a=323&i=true
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Jesus Cristo
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Luz (Boas Novas)
+http://wz3.dnip.com.br/tvluz/tvluz.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Luz (Boas Novas)
+rtmp://wz3.dnip.com.br:1935/tvluz/tvluz.sdp
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV GIDEOES
+rtmp://tvgideoes.zasmediastreaming.com.br/gmuh//gmuh.sdp?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV GIDEOES HD
+rtmp://live2.zasmediastreaming.com.br/gideoes/ playpath=alta.sdp swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://www.gideoes.com.br/tv-gideoes/culto-ao-vivo
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV MANA
+rtmp://195.22.19.179/manasat/manasat2
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/Anderson_Elias.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TV Plenitude
+rtmp://painelvideo.com:1935/iaptd/iaptd 
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Sky Gospel Web Tv
+http://fms.skyradios.com.br:1935/skylive/skylive/Anderson_Elias.m3u8
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", Sky Gospel Web Tv
+rtsp://fms.skyradios.com.br/skylive/skylive
+
+#EXTINF:-1  tvg-logo="https://goo.gl/gf5ljL" group-title="Canais Religiosos", TVRBC
+rtmp://flash1.crossdigital.com.br/ponto10/latina
